@@ -10,15 +10,5 @@ namespace ConsoleApp_Task
             game.Run();
         }
 
-        public void CheckSeven(int number)
-        {
-            if(number > 6)
-            {
-                Console.WriteLine("Hello");
-            }
-        }
-
-
-
     }
 }

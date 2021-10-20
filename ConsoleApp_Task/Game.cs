@@ -14,6 +14,7 @@ namespace ConsoleApp_Task
         public Game()
         {
             _menu = new Menu(new string[] { "Try to bribe the program", "Find a person", "Extract multiples of integer from array", "Exit" });
+            CursorVisible = false;
         }
 
         public void Run()
@@ -70,6 +71,7 @@ namespace ConsoleApp_Task
                     }
                 }
                 Write("Press Escape button to exit.....");
+                WriteLine();
                 keyPressed = ReadKey().Key;
             } while (keyPressed != ConsoleKey.Escape);
             Exit();
@@ -100,6 +102,7 @@ namespace ConsoleApp_Task
                 }
                 Write("Press Escape button to exit.....");
                 keyPressed = ReadKey().Key;
+                WriteLine();
             } while (keyPressed != ConsoleKey.Escape);
             Exit();
         }
@@ -113,10 +116,11 @@ namespace ConsoleApp_Task
 
             do
             {
+                Clear();
                 try
                 {
-                    multiple = Convert.ToInt32(ReadLine());
                     Write("Tap multiple number: ");
+                    multiple = Convert.ToInt32(ReadLine());                    
                     Write("Tap through space, or comma with space button button come numbers: ");
                     input = ReadLine();
 
@@ -139,7 +143,7 @@ namespace ConsoleApp_Task
                 }
                 Write("Press Escape button to exit.....");
                 keyPressed = ReadKey().Key;
-                Clear();
+                WriteLine();
             } while (keyPressed != ConsoleKey.Escape);
             Exit();
         }
