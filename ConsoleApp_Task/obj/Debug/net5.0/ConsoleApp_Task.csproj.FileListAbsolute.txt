@@ -1,0 +1,16 @@
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.exe
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.deps.json
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.runtimeconfig.json
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.runtimeconfig.dev.json
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.dll
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ref\ConsoleApp_Task.dll
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\bin\Debug\net5.0\ConsoleApp_Task.pdb
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.csproj.AssemblyReference.cache
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.AssemblyInfoInputs.cache
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.AssemblyInfo.cs
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.csproj.CoreCompileInputs.cache
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.dll
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ref\ConsoleApp_Task.dll
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.pdb
+D:\C#\AndersenLab_AQA_Task\ConsoleApp_Task\obj\Debug\net5.0\ConsoleApp_Task.genruntimeconfig.cache
