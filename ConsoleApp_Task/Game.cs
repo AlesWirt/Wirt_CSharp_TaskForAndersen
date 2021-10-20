@@ -140,7 +140,6 @@ namespace ConsoleApp_Task
                 Write("Press Escape button to exit.....");
                 keyPressed = ReadKey().Key;
                 Clear();
-
             } while (keyPressed != ConsoleKey.Escape);
             Exit();
         }
